@@ -1,0 +1,219 @@
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.dll
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.pdb
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Gestion_productos.resources
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.naturvida.resources
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.dll
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.pdb
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Gestion_productos.resources
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.naturvida.resources
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.dll
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.pdb
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Gestion_productos.resources
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.naturvida.resources
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedores.resources
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Gestion_productos.resources
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.naturvida.resources
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedores.resources
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.dll
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.pdb
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Gestion_productos.resources
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.naturvida.resources
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedores.resources
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.resources
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Presentacion.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Gestion_productos.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.naturvida.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Presentacion.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedores.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.dll
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.pdb
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Gestion_productos.resources
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.resources
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.naturvida.resources
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Presentacion.resources
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedores.resources
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Gestion_productos.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.naturvida.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Presentacion.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedores.resources
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.dll
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CE_Entidades.pdb
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Gestion_productos.resources
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.resources
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.naturvida.resources
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Presentacion.resources
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedores.resources
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\carlo\Downloads\Naturvida 3.5\Naturvida 3\Solucion Naturvida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
